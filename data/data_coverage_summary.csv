@@ -1,0 +1,36 @@
+indicator_code,indicator_name,non_null_rows,countries,year_min,year_max
+SP.POP.TOTL,"Population, total",5525,221,2000,2024
+SP.URB.TOTL.IN.ZS,Urban population (% of total),5525,221,2000,2024
+SP.DYN.LE00.IN,Life expectancy at birth (years),5525,221,2000,2024
+SP.DYN.TFRT.IN,Fertility rate (births per woman),5525,221,2000,2024
+SP.POP.GROW,Population growth (annual %),5524,221,2000,2024
+EG.ELC.ACCS.ZS,Access to electricity (% of population),5450,219,2000,2024
+NY.GDP.PCAP.CD,GDP per capita (current US$),5342,218,2000,2024
+NY.GDP.MKTP.CD,GDP (current US$),5342,218,2000,2024
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5268,218,2000,2024
+SH.STA.BASS.ZS,People using at least basic sanitation (%),5266,218,2000,2024
+NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)",5261,217,2000,2024
+AG.LND.AGRI.ZS,Agricultural land (% of land area),5098,214,2000,2023
+IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),5066,218,2000,2024
+NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",5042,211,2000,2024
+SH.DYN.MORT,"Under-5 mortality rate (per 1,000)",5000,200,2000,2024
+IT.NET.USER.ZS,Individuals using the Internet (% of population),4970,214,2000,2024
+BX.KLT.DINV.WD.GD.ZS,FDI net inflows (% of GDP),4919,206,2000,2024
+SL.UEM.TOTL.ZS,Unemployment (% of labor force),4766,191,2000,2024
+SL.TLF.CACT.FE.ZS,Female labor force participation rate (%),4766,191,2000,2024
+NV.IND.MANF.ZS,Manufacturing value added (% of GDP),4759,207,2000,2024
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),4658,197,2000,2024
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",4619,197,2000,2024
+NE.TRD.GNFS.ZS,Trade (% of GDP),4550,197,2000,2024
+AG.PRD.FOOD.XD,Food production index (2014-2016=100),4533,199,2000,2022
+SE.PRM.ENRR,"School enrollment, primary (% gross)",4223,208,2000,2024
+ER.H2O.FWTL.ZS,Annual freshwater withdrawals (% of resources),3966,181,2000,2022
+EG.USE.PCAP.KG.OE,Energy use (kg oil equiv. per capita),3824,182,2000,2024
+SH.H2O.SMDW.ZS,People using safely managed drinking water (%),3816,155,2000,2024
+SE.SEC.ENRR,"School enrollment, secondary (% gross)",3688,207,2000,2024
+SE.XPD.TOTL.GD.ZS,Government education expenditure (% of GDP),3451,204,2000,2024
+SE.TER.ENRR,"School enrollment, tertiary (% gross)",3278,199,2000,2024
+SI.POV.DDAY,Poverty headcount ratio at $2.15/day (%),1948,172,2000,2024
+SI.POV.GINI,Gini index,1858,168,2000,2024
+GC.DOD.TOTL.GD.ZS,Central government debt (% of GDP),1141,87,2000,2024
+SE.ADT.LITR.ZS,"Literacy rate, adult (% ages 15+)",997,159,2000,2024
